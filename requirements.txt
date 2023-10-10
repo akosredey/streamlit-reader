@@ -1,5 +1,9 @@
 altair
 numpy
 pandas
+ydata-profiling
 pydeck
 streamlit
+Jinja2
+matplotlib==3.7
+seaborn
